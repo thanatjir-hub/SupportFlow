@@ -4,7 +4,7 @@
 
 [ตัวอย่างหน้าเว็ป](https://support-flow-5zal9lcfz-thanatjir-hubs-projects.vercel.app/)
 
-![ตัวอย่างเว็ป]([https://drive.google.com/file/d/1pnvhYJk4yPO0oS5h5o1g1rVoecqNcO2u/view?usp=sharing](https://drive.google.com/file/d/1pnvhYJk4yPO0oS5h5o1g1rVoecqNcO2u/view?usp=sharing))
+![ตัวอย่างข้อมูล Google Sheets](https://drive.google.com/uc?export=view&id=1KA_OD3PfU_1SMm18T8eWnEFrvf4QC75V)
 
 
 ## คุณสมบัติเด่น
