@@ -11,7 +11,7 @@
 ## ตัวอย่างโครงสร้างข้อมูลใน Google Sheets
 เพื่อให้ AI ทำงานได้อย่างแม่นยำ ควรจัดเรียงข้อมูลให้**มีหัวตารางที่ชัดเจน** ดังตัวอย่างด้านล่างนี้:
 
-![ตัวอย่างข้อมูล Google Sheets](https://drive.google.com/file/d/1KA_OD3PfU_1SMm18T8eWnEFrvf4QC75V/view?usp=drive_link)
+![ตัวอย่างข้อมูล Google Sheets](https://drive.google.com/uc?export=view&id=1KA_OD3PfU_1SMm18T8eWnEFrvf4QC75V)
 
 
 ## การติดตั้งและใช้งาน
