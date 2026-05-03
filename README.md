@@ -4,6 +4,9 @@
 
 [ตัวอย่างหน้าเว็ป](https://support-flow-5zal9lcfz-thanatjir-hubs-projects.vercel.app/)
 
+![ตัวอย่างข้อมูล Google Sheets](https://drive.google.com/file/d/1pnvhYJk4yPO0oS5h5o1g1rVoecqNcO2u/view?usp=sharing)
+
+
 ## คุณสมบัติเด่น
 - **เชื่อมต่อ Google Sheets**: ดึงข้อมูลจากตารางได้แบบ Real-time (ผ่าน CSV Publish)
 - **ประมวลผลด้วย AI**: ใช้ Gemini 2.5 Flash ที่มีความเร็วและแม่นยำสูงในการวิเคราะห์คำถาม
