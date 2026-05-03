@@ -2,6 +2,8 @@
 
 ระบบ AI ช่วยตอบคำถามลูกค้าอัตโนมัติ โดยดึงข้อมูลจาก **Google Sheets** มาใช้เป็นฐานความรู้ (Knowledge Base) ประมวลผลด้วย **Gemini 2.5 Flash** ผ่าน Genkit
 
+[ตัวอย่างหน้าเว็ป]([https://drive.google.com/uc?export=view&id=1KA_OD3PfU_1SMm18T8eWnEFrvf4QC75V](https://support-flow-3on7erfbl-thanatjir-hubs-projects.vercel.app/))
+
 ## คุณสมบัติเด่น
 - **เชื่อมต่อ Google Sheets**: ดึงข้อมูลจากตารางได้แบบ Real-time (ผ่าน CSV Publish)
 - **ประมวลผลด้วย AI**: ใช้ Gemini 2.5 Flash ที่มีความเร็วและแม่นยำสูงในการวิเคราะห์คำถาม
