@@ -1,0 +1,15 @@
+{
+  "name": "SupportFlow Lite",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "next-dev",
+      "command": "npm run dev"
+    },
+    {
+      "name": "genkit-dev",
+      "command": "npm run genkit:watch"
+    }
+  ],
+  "ports": [9002, 4000]
+}
